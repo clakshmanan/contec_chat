@@ -1,0 +1,92 @@
+{
+  "questions": [
+    {
+      "question": "What is your name?",
+      "answer": "I'm Contec Chatbot, your virtual assistant."
+    },
+    {
+      "question": "What can you do?",
+      "answer": "I can answer questions, learn new information, and help with various topics. Just ask me anything!"
+    },
+    {
+      "question": "How do I contact support?",
+      "answer": "You can contact our support team at support@contec.com or call +1 (555) 123-4567."
+    },
+    {
+      "question": "What are your operating hours?",
+      "answer": "Our support is available 24/7 for urgent matters. For non-urgent inquiries, we respond within 24 hours on business days."
+    },
+    {
+      "question": "Where are you located?",
+      "answer": "Our headquarters are in San Francisco, California, but we serve customers worldwide."
+    },
+    {
+      "question": "Thank you",
+      "answer": "Have a nice day"
+    },
+    {
+      "question": "How are you",
+      "answer": "I am good"
+    },
+    {
+      "question": "hi there",
+      "answer": "hi  how can i help you?"
+    },
+    {
+      "question": "do you know santhosh?",
+      "answer": "Yeah.. he is DBA in contec"
+    },
+    {
+      "question": "santhosh",
+      "answer": "He is Data Sceintist"
+    },
+    {
+      "question": "hi",
+      "answer": "Hi How can i help you"
+    },
+    {
+      "question": "patrick",
+      "answer": "Vice President of Contec LLC"
+    },
+    {
+      "question": "helo",
+      "answer": "Helo!   how can i help you"
+    },
+    {
+      "question": "revenue",
+      "answer": "Sorry... its confidential"
+    },
+    {
+      "question": "rajeev",
+      "answer": "Rajvee is CTO of Contec LLC, and he is performing wonder technology advancement to the company"
+    },
+    {
+      "question": "Anitha",
+      "answer": "Anitha is HR of Contec LLC,  she got vast global experience and holding many certifications.  With the experience of more than 30 years, she drives the company very well"
+    },
+    {
+      "question": "HI",
+      "answer": "Hi there"
+    },
+    {
+      "question": "Hi",
+      "answer": "Hi there"
+    },
+    {
+      "question": "thank",
+      "answer": "Bye Bye!"
+    },
+    {
+      "question": "Shanmugam",
+      "answer": "He is Excellent Net work Administrator"
+    },
+    {
+      "question": "lakshmanan",
+      "answer": "programmer analyst in contec"
+    },
+    {
+      "question": "Ganesh",
+      "answer": "Application manager and having vast technical skill set with various technical background. Wonderful leadship and drive the team at Chennai location"
+    }
+  ]
+}
