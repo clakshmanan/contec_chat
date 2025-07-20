@@ -127,7 +127,7 @@ def display_chat():
     # Sidebar with logo
     with st.sidebar:
         st.markdown('<div class="sidebar-logo">', unsafe_allow_html=True)
-        st.image("contec.png", width=250)
+        st.image("https://raw.githubusercontent.com/clakshmanan/contec_chat/main/contec.png", width=250)
         st.markdown('</div>', unsafe_allow_html=True)
         
         st.caption("Type 'quit' to exit.")
